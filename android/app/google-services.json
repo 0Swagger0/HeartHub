@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367907730175",
+    "project_id": "android-notification-57be9",
+    "storage_bucket": "android-notification-57be9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367907730175:android:171acb33aec872f58dd2ca",
+        "android_client_info": {
+          "package_name": "com.jindagi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367907730175-c26ereebcili5ml2u0elrphda0cms6o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ShLUR_qR9Pr33KNOBhBnDHi-ecjaLAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367907730175-c26ereebcili5ml2u0elrphda0cms6o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
